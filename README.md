@@ -9,9 +9,11 @@
 </br>
 </br>
 
-<h1 align="center"> Hi 👋, I'm , Mehedi Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh .</h3>
+### Hi 👋, I'm , Mehedi Hasan
+### A passionate frontend developer from Bangladesh 
 
+</br>
+</br>
 
 ## :eyes: Current overview : 
 
