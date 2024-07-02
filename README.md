@@ -1,6 +1,16 @@
 
 <img src="https://i.ibb.co/KWBD61F/github-banner.webp">
 </br>
+</br>
+
+
+
+<h1 align="left" >About Me  :  </h1>
+</br>
+</br>
+
+<h1 align="center"> Hi 👋, I'm , Mehedi Hasan</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh .</h3>
 
 
 ## :eyes: Current overview : 
@@ -15,6 +25,8 @@
 
 </br>
 </br>
+
+
 
 </hr>
 
