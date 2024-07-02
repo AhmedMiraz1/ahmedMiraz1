@@ -1,4 +1,16 @@
 
+## :eyes: Current overview
+
+
+### 🔭 I’m working - I'm student of  Programming Hero. 
+### 🌱 I’m exploring - Advance framwork explore . 
+### 👯 I’m looking - To collaborate on open source projects. 
+### 🤔 I’m trying - To learn and face advance technoligis . 
+### ⚡ Fun fact - I love memes .
+
+
+</br>
+</br>
 
 
 
